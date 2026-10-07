@@ -1,2 +1,2 @@
 # YTDown
-A python youtube downloader
+A python youtube gui downloader that uses yt-dlp
