@@ -1,2 +1,2 @@
-# YTDown
-A python youtube gui downloader that uses yt-dlp
+# Weatherwall
+A Python weather forecast using Tkinter.
